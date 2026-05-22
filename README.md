@@ -99,19 +99,19 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 632 Contributions in the Year 2026
+> 🏆 694 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 112 Public Repositories 
+> 📜 114 Public Repositories 
  > 
-> 🔑 38 Private Repositories 
+> 🔑 39 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -127,17 +127,17 @@ TypeScript               51 mins             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               55 repos            ██████████░░░░░░░░░░░░░░░   41.04 % 
-Python                   23 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               56 repos            ██████████░░░░░░░░░░░░░░░   40.88 % 
+Python                   25 repos            █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 
 
 
- Last Updated on 21/05/2026 14:10:16 UTC
+ Last Updated on 22/05/2026 01:12:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
