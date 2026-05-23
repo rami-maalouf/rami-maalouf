@@ -99,45 +99,34 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.20%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 702 Contributions in the Year 2026
+> 🏆 714 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 114 Public Repositories 
+> 📜 115 Public Repositories 
  > 
 > 🔑 39 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    73 hrs 10 mins      ███████████████████████░░   92.07 % 
-Python                   1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Swift                    1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Markdown                 1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-TypeScript               57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               56 repos            ██████████░░░░░░░░░░░░░░░   40.88 % 
-Python                   25 repos            █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+TypeScript               57 repos            ██████████░░░░░░░░░░░░░░░   41.30 % 
+Python                   25 repos            █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
 
 
- Last Updated on 23/05/2026 01:45:15 UTC
+ Last Updated on 23/05/2026 12:35:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
