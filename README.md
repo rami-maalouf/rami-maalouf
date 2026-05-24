@@ -105,11 +105,11 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 717 Contributions in the Year 2026
+> 🏆 719 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 115 Public Repositories 
+> 📜 116 Public Repositories 
  > 
 > 🔑 39 Private Repositories 
  > 
@@ -127,17 +127,17 @@ TypeScript               1 hr 3 mins         ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               57 repos            ██████████░░░░░░░░░░░░░░░   41.30 % 
-Python                   25 repos            █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+TypeScript               58 repos            ██████████░░░░░░░░░░░░░░░   41.73 % 
+Python                   25 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
 
 
- Last Updated on 24/05/2026 01:19:25 UTC
+ Last Updated on 24/05/2026 01:24:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
