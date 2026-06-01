@@ -1,7 +1,7 @@
 <a href="https://ramimaalouf.com" target="_blank" rel="noopener noreferrer"><img src="assets/github-header.gif" width="100%" style="border-radius: 8px;" /></a>
 
-<!--  <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> 
-
+<!--
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> 
 I love people... That's all you need to know about me. I love building useful softwares for humans who face the same problem as me and [making content](https://youtube.com/@ramimaalouf) that help them grow. You can learn more about me through [my personal website](https://ramimaalouf.com).
 -->
 
