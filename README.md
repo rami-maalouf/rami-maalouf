@@ -76,7 +76,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rami-maalouf&style=flat-square&color=blue" alt="profile visits">
+  <img src="https://komarev.com/ghpvc/?username=psycho-baller&style=flat-square&color=blue" alt="profile visits">
   <img src="https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb.svg?style=flat-square" alt="time spent in IDE">
   <a href="https://www.youtube.com/@ramimaalouf" target="_blank" rel="noopener noreferrer">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/views/UCf9CoIzXxFcwlwaNuN5_1BQ">
