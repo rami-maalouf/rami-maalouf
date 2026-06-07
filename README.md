@@ -68,7 +68,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 </div>
 <!--  <a href="https://medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rami-maalouf&repo=rami-maalouf)](https://github.com/rami-maalouf/rami-maalouf)
 -->
 
 <br />
@@ -76,7 +76,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=psycho-baller&style=flat-square&color=blue" alt="profile visits">
+  <img src="https://komarev.com/ghpvc/?username=rami-maalouf&style=flat-square&color=blue" alt="profile visits">
   <img src="https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb.svg?style=flat-square" alt="time spent in IDE">
   <a href="https://www.youtube.com/@ramimaalouf" target="_blank" rel="noopener noreferrer">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/views/UCf9CoIzXxFcwlwaNuN5_1BQ">
@@ -84,13 +84,13 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 </div>
 
 <!-- <div float="left" align="center"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=blue-green" width="59%" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="40%" />  -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=rami-maalouf&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=blue-green" width="59%" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rami-maalouf&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="40%" />  -->
 <!--  <img src="assets/generated/overview.svg" width="40%" /> -->
 <!--  <img src="assets/generated/languages.svg" width="40%" /> -->
 <!-- </div> -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycho-baller&theme=tokyonight&hide_border=false" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rami-maalouf&theme=tokyonight&hide_border=false" width="55%" />
 </div>
 
 
