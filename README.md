@@ -116,11 +116,11 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 28 mins      ███████████████░░░░░░░░░░   59.47 % 
-Markdown                 4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-TypeScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Markdown                 5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
+Other                    4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+TypeScript               2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 02:10:22 UTC
+ Last Updated on 12/06/2026 02:12:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
