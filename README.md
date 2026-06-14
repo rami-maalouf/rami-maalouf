@@ -104,7 +104,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 815 Contributions in the Year 2026
+> 🏆 816 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -116,27 +116,27 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
-Other                    4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-TypeScript               2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Markdown                 9 hrs 46 mins       ███████████████░░░░░░░░░░   58.39 % 
+TypeScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Other                    2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               61 repos            ███████████░░░░░░░░░░░░░░   42.96 % 
-Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+TypeScript               62 repos            ███████████░░░░░░░░░░░░░░   43.36 % 
+Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
 
 
- Last Updated on 12/06/2026 02:12:37 UTC
+ Last Updated on 14/06/2026 02:31:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
