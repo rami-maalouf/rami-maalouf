@@ -104,7 +104,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 816 Contributions in the Year 2026
+> 🏆 817 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -116,11 +116,11 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 31 mins       ███████████████░░░░░░░░░░   59.39 % 
-TypeScript               2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Other                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Markdown                 9 hrs 21 mins       ██████████████████░░░░░░░   71.38 % 
+TypeScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2026 02:40:33 UTC
+ Last Updated on 18/06/2026 02:34:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
