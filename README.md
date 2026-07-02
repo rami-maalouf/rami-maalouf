@@ -98,45 +98,45 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 833 Contributions in the Year 2026
+> 🏆 835 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 117 Public Repositories 
  > 
-> 🔑 41 Private Repositories 
+> 🔑 42 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 56 mins      █████████████████░░░░░░░░   67.45 % 
-Other                    2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Text                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Markdown                 14 hrs 51 mins      ████████████████░░░░░░░░░   64.25 % 
+Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+TypeScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               62 repos            ███████████░░░░░░░░░░░░░░   43.36 % 
-Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               62 repos            ███████████░░░░░░░░░░░░░░   43.06 % 
+Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 
 
 
- Last Updated on 30/06/2026 02:29:34 UTC
+ Last Updated on 02/07/2026 02:28:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
