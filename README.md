@@ -116,11 +116,11 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
-Markdown                 21 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.22 % 
-Swift                    3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JSON                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-MDX                      1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 25 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   39.83 % 
+Other                    22 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   34.98 % 
+JSON                     3 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Swift                    3 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+MDX                      1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2026 05:17:07 UTC
+ Last Updated on 11/07/2026 04:48:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
