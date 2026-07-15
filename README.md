@@ -104,23 +104,23 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 884 Contributions in the Year 2026
+> 🏆 885 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 118 Public Repositories 
+> 📜 119 Public Repositories 
  > 
-> 🔑 44 Private Repositories 
+> 🔑 43 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 22 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   41.08 % 
-Other                    19 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   35.95 % 
-JSON                     2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Swift                    2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-MDX                      1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Markdown                 26 hrs 42 mins      ██████████████░░░░░░░░░░░   54.00 % 
+Other                    13 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+JSON                     2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Swift                    2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Text                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 04:18:28 UTC
+ Last Updated on 15/07/2026 04:21:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
