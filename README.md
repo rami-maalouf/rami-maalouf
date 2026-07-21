@@ -98,13 +98,13 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.4 MB Used in GitHub's Storage 
+> 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,078 Contributions in the Year 2026
+> 🏆 1,159 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -116,11 +116,11 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 43 hrs 8 mins       ███████████████████░░░░░░   77.42 % 
-TypeScript               7 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-JSON                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Other                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-HTML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Markdown                 39 hrs 39 mins      ███████████████████░░░░░░   75.96 % 
+TypeScript               8 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+JSON                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+TSConfig                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2026 04:53:03 UTC
+ Last Updated on 21/07/2026 04:47:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
