@@ -98,7 +98,9 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.00%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2059%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -123,6 +125,32 @@ JSON                     1 hr 34 mins        ███░░░░░░░░�
 Python                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 34 mins (89.3%)
+
+✍️ 10,946 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 222,937,694 Input Tokens, 963,027 Output Tokens
+
+💵 $999.61 Estimated AI Cost This Week
+
+🧠 45 AI Sessions, 151 AI Prompts
+
+GPT                      7,086 lines         █████████████████░░░░░░░░   66.37 % 
+Vscode-Wakatime          2,703 lines         ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+Opus                     882 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Gemini                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 917 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -136,7 +164,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 15:24:23 UTC
+ Last Updated on 27/07/2026 16:54:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
