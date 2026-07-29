@@ -106,7 +106,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 > 📦 3.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,209 Contributions in the Year 2026
+> 🏆 1,229 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -154,17 +154,17 @@ Codex-Cli                2 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               65 repos            ███████████░░░░░░░░░░░░░░   43.62 % 
-Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Swift                    14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+TypeScript               66 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Swift                    14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 29/07/2026 18:55:24 UTC
+ Last Updated on 29/07/2026 20:28:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
