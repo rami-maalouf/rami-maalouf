@@ -98,7 +98,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-304%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -106,7 +106,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 > 📦 3.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,205 Contributions in the Year 2026
+> 🏆 1,209 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,34 +118,35 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.60 % 
-TypeScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-JSON                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Python                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Git Config               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Markdown                 8 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
+TypeScript               3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 51 mins (93.86%)
+⏱ AI Coding Time: 18 hrs 6 mins (93.27%)
 
-✍️ 15,765 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 19,231 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 307,956,170 Input Tokens, 1,594,992 Output Tokens
+🔤 410,661,711 Input Tokens, 2,296,283 Output Tokens
 
-💵 $1202.19 Estimated AI Cost This Week
+💵 $1581.22 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 156 AI Prompts
+🧠 62 AI Sessions, 199 AI Prompts
 
-GPT                      7,623 lines         ████████████████░░░░░░░░░   62.88 % 
-Vscode-Wakatime          2,703 lines         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Opus                     1,795 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GPT                      7,183 lines         █████████████░░░░░░░░░░░░   53.44 % 
+Opus                     3,472 lines         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+Vscode-Wakatime          2,716 lines         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Grok                     67 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,121 characters per prompt
+📚 Verbose Prompter — average 2,417 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -163,7 +164,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 07:42:50 UTC
+ Last Updated on 29/07/2026 09:20:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
