@@ -98,15 +98,15 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-329%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.6 MB Used in GitHub's Storage 
+> 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,317 Contributions in the Year 2026
+> 🏆 1,329 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,35 +118,35 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 41 mins      ███████████████░░░░░░░░░░   60.45 % 
-Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Python                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Swift                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-TypeScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Markdown                 13 hrs              ██████████████░░░░░░░░░░░   54.54 % 
+Swift                    2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+TypeScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 56 mins (84.55%)
+⏱ AI Coding Time: 20 hrs 10 mins (84.57%)
 
-✍️ 28,677 lines written by AI, 24 lines written by hand (99.92% AI-written)
+✍️ 27,170 lines written by AI, 24 lines written by hand (99.91% AI-written)
 
-🔤 1,839,309,035 Input Tokens, 5,442,487 Output Tokens
+🔤 1,774,344,528 Input Tokens, 4,833,609 Output Tokens
 
-💵 $8741.47 Estimated AI Cost This Week
+💵 $8477.53 Estimated AI Cost This Week
 
-🧠 91 AI Sessions, 258 AI Prompts
+🧠 79 AI Sessions, 237 AI Prompts
 
-GPT                      18,579 lines        █████████████████████░░░░   84.06 % 
-Opus                     2,791 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Cursor                   653 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Grok                     67 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Vscode-Wakatime          13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GPT                      20,024 lines        ███████████████████████░░   90.89 % 
+Opus                     1,330 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Cursor                   653 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Haiku                    17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Vscode-Wakatime          8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 2,562 characters per prompt
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 2,009 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
@@ -154,17 +154,17 @@ Vscode-Wakatime          13 lines            ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               66 repos            ███████████░░░░░░░░░░░░░░   43.42 % 
-Python                   25 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Swift                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+TypeScript               67 repos            ███████████░░░░░░░░░░░░░░   43.79 % 
+Python                   25 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Swift                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 04/08/2026 23:53:21 UTC
+ Last Updated on 05/08/2026 16:00:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
