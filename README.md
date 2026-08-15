@@ -100,7 +100,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -151,14 +151,20 @@ Sonnet                   47 lines            ░░░░░░░░░░░�
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               68 repos            ███████████░░░░░░░░░░░░░░   44.16 % 
+Python                   25 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Swift                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 
 
 
 
- Last Updated on 15/08/2026 02:23:57 UTC
+ Last Updated on 15/08/2026 03:22:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
