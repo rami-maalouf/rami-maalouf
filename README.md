@@ -118,37 +118,37 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 2 mins       █████████████░░░░░░░░░░░░   52.08 % 
-TypeScript               5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Swift                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Markdown                 11 hrs 16 mins      ██████████████░░░░░░░░░░░   56.09 % 
+Other                    2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+TypeScript               2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Swift                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 6 mins (80.33%)
+⏱ AI Coding Time: 15 hrs 15 mins (75.88%)
 
-✍️ 10,666 lines written by AI, 8 lines written by hand (99.93% AI-written)
+✍️ 5,492 lines written by AI, 8 lines written by hand (99.85% AI-written)
 
-🔤 13,995,795 Input Tokens, 1,309,590 Output Tokens
+🔤 7,660,827 Input Tokens, 774,433 Output Tokens
 
-💵 $386.50 Estimated AI Cost This Week
+💵 $190.08 Estimated AI Cost This Week
 
-🧠 81 AI Sessions, 278 AI Prompts
+🧠 67 AI Sessions, 244 AI Prompts
 
-GPT                      5,918 lines         █████████████░░░░░░░░░░░░   51.93 % 
-Fable                    4,866 lines         ███████████░░░░░░░░░░░░░░   42.70 % 
-Opus                     441 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Codex-Vscode             159 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Sonnet                   13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Fable                    3,554 lines         ████████████████░░░░░░░░░   64.11 % 
+GPT                      1,468 lines         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+Opus                     350 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Codex-Vscode             159 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Sonnet                   13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 3,254 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🤖 AI-Driven — 99.85% of written lines came from AI
+📚 Verbose Prompter — average 3,565 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +164,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 04:56:24 UTC
+ Last Updated on 17/08/2026 14:24:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
