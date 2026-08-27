@@ -98,7 +98,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-374%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -118,37 +118,37 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 hrs 32 mins      ██████████████████░░░░░░░   72.30 % 
-Other                    4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-HTML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Markdown                 14 hrs 38 mins      ██████████████████░░░░░░░   73.25 % 
+Other                    3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+HTML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 10 mins (70.52%)
+⏱ AI Coding Time: 14 hrs 7 mins (70.71%)
 
-✍️ 2,436 lines written by AI, 55 lines written by hand (97.79% AI-written)
+✍️ 2,744 lines written by AI, 55 lines written by hand (98.04% AI-written)
 
-🔤 8,398,624 Input Tokens, 529,205 Output Tokens
+🔤 8,708,811 Input Tokens, 494,365 Output Tokens
 
-💵 $146.37 Estimated AI Cost This Week
+💵 $143.83 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 249 AI Prompts
+🧠 50 AI Sessions, 240 AI Prompts
 
-Fable                    2,058 lines         █████████████████████░░░░   82.62 % 
-GPT                      396 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Codex-Vscode             37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Fable                    2,360 lines         █████████████████████░░░░   84.50 % 
+GPT                      396 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Codex-Vscode             37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.79% of written lines came from AI
-📄 Detailed Prompter — average 1,443 characters per prompt
+🤖 AI-Driven — 98.04% of written lines came from AI
+📚 Verbose Prompter — average 1,709 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.58% of changed lines were hand-edited
+🚀 High AI Trust — 2.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +164,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 10:21:29 UTC
+ Last Updated on 27/08/2026 11:58:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
