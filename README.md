@@ -98,15 +98,15 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-378%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.03%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,401 Contributions in the Year 2026
+> 🏆 1,415 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,53 +118,53 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 32 mins       ███████████████████░░░░░░   75.06 % 
-HTML                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Markdown                 11 hrs 18 mins      ███████████████████░░░░░░   75.42 % 
+HTML                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 8 mins (71.86%)
+⏱ AI Coding Time: 10 hrs 44 mins (71.63%)
 
-✍️ 6,229 lines written by AI, 46 lines written by hand (99.27% AI-written)
+✍️ 7,680 lines written by AI, 52 lines written by hand (99.33% AI-written)
 
-🔤 6,835,160 Input Tokens, 502,443 Output Tokens
+🔤 7,876,922 Input Tokens, 603,520 Output Tokens
 
-💵 $152.01 Estimated AI Cost This Week
+💵 $177.37 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 176 AI Prompts
+🧠 52 AI Sessions, 197 AI Prompts
 
-Fable                    6,291 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    6,573 lines         █████████████████████░░░░   84.63 % 
+GPT                      1,124 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Codex-Vscode             70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.27% of written lines came from AI
-📚 Verbose Prompter — average 2,459 characters per prompt
+🤖 AI-Driven — 99.33% of written lines came from AI
+📚 Verbose Prompter — average 2,813 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.82% of changed lines were hand-edited
+🚀 High AI Trust — 0.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               68 repos            ███████████░░░░░░░░░░░░░░   43.87 % 
+TypeScript               69 repos            ███████████░░░░░░░░░░░░░░   44.52 % 
 Python                   26 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 Swift                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 
 
 
- Last Updated on 29/08/2026 17:32:58 UTC
+ Last Updated on 30/08/2026 18:05:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
