@@ -100,17 +100,17 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-384%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,497 Contributions in the Year 2026
+> 🏆 1,540 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 122 Public Repositories 
+> 📜 123 Public Repositories 
  > 
 > 🔑 46 Private Repositories 
  > 
@@ -154,17 +154,17 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               68 repos            ███████████░░░░░░░░░░░░░░   43.87 % 
-Python                   26 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Swift                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript               69 repos            ███████████░░░░░░░░░░░░░░   44.23 % 
+Python                   26 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Swift                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 
 
 
- Last Updated on 01/09/2026 02:11:08 UTC
+ Last Updated on 01/09/2026 03:45:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
