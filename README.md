@@ -118,37 +118,37 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 37 mins      ███████████░░░░░░░░░░░░░░   45.34 % 
-TypeScript               4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Other                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-HTML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Markdown                 8 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.90 % 
+TypeScript               4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Other                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+HTML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 46 mins (88.67%)
+⏱ AI Coding Time: 20 hrs 1 min (89.3%)
 
-✍️ 18,517 lines written by AI, 11 lines written by hand (99.94% AI-written)
+✍️ 18,790 lines written by AI, 10 lines written by hand (99.95% AI-written)
 
-🔤 19,178,597 Input Tokens, 2,329,637 Output Tokens
+🔤 18,949,856 Input Tokens, 2,344,109 Output Tokens
 
-💵 $873.86 Estimated AI Cost This Week
+💵 $872.57 Estimated AI Cost This Week
 
-🧠 116 AI Sessions, 293 AI Prompts
+🧠 112 AI Sessions, 275 AI Prompts
 
-GPT                      9,878 lines         █████████████░░░░░░░░░░░░   52.85 % 
-Fable                    7,052 lines         █████████░░░░░░░░░░░░░░░░   37.73 % 
-Codex-Vscode             918 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Sonnet                   842 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+GPT                      9,878 lines         █████████████░░░░░░░░░░░░   52.07 % 
+Fable                    6,922 lines         █████████░░░░░░░░░░░░░░░░   36.49 % 
+Sonnet                   1,251 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Codex-Vscode             918 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 3,910 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 3,843 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +164,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 09:02:37 UTC
+ Last Updated on 03/09/2026 10:54:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
