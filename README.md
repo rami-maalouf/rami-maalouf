@@ -154,17 +154,17 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               69 repos            ███████████░░░░░░░░░░░░░░   44.23 % 
-Python                   26 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Swift                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               69 repos            ███████████░░░░░░░░░░░░░░   44.52 % 
+Python                   26 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Swift                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 
 
 
- Last Updated on 04/09/2026 07:30:45 UTC
+ Last Updated on 04/09/2026 09:18:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
