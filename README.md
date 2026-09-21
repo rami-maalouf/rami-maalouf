@@ -98,9 +98,9 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-466%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-467%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.47%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -118,31 +118,32 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Other                    44 hrs 35 mins      ███████████████████████░░   93.63 % 
-Markdown                 2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Groff                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    40 hrs 32 mins      ███████████████████████░░   91.47 % 
+Markdown                 3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Groff                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 29 mins (24.15%)
+⏱ AI Coding Time: 12 hrs 7 mins (27.37%)
 
 ✍️ 277 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,278,204 Input Tokens, 765,899 Output Tokens
+🔤 8,806,136 Input Tokens, 804,943 Output Tokens
 
-💵 $78.47 Estimated AI Cost This Week
+💵 $98.48 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 232 AI Prompts
+🧠 51 AI Sessions, 191 AI Prompts
 
 Fable                    179 lines           ████████████████░░░░░░░░░   64.62 % 
 GPT                      98 lines            █████████░░░░░░░░░░░░░░░░   35.38 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,675 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 3,341 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -159,7 +160,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 07:40:59 UTC
+ Last Updated on 21/09/2026 09:16:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
