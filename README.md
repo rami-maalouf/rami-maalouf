@@ -118,37 +118,37 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Other                    37 hrs 46 mins      ████████████████████░░░░░   78.73 % 
-Markdown                 8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-TypeScript               46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Swift                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Groff                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    35 hrs 35 mins      ███████████████████░░░░░░   77.24 % 
+Markdown                 8 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+TypeScript               47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Swift                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 29 mins (40.63%)
+⏱ AI Coding Time: 22 hrs 8 mins (48.03%)
 
-✍️ 1,150 lines written by AI, 3 lines written by hand (99.74% AI-written)
+✍️ 1,732 lines written by AI, 3 lines written by hand (99.83% AI-written)
 
-🔤 10,723,862 Input Tokens, 1,659,146 Output Tokens
+🔤 12,543,310 Input Tokens, 1,808,931 Output Tokens
 
-💵 $248.98 Estimated AI Cost This Week
+💵 $325.15 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 557 AI Prompts
+🧠 82 AI Sessions, 617 AI Prompts
 
-GPT                      541 lines           ███████████░░░░░░░░░░░░░░   42.13 % 
-Fable                    268 lines           █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Cursor                   262 lines           █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Opus                     170 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Grok                     43 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+GPT                      564 lines           ████████░░░░░░░░░░░░░░░░░   30.23 % 
+Opus                     558 lines           ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+Fable                    439 lines           ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Cursor                   262 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Grok                     43 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 6,926 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 6,494 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +164,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 09:07:49 UTC
+ Last Updated on 24/09/2026 11:00:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
