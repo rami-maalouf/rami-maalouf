@@ -98,7 +98,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-486%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-486%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -118,25 +118,25 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 19 mins      ██████████████████░░░░░░░   73.73 % 
-Markdown                 8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-TypeScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Swift                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    26 hrs 55 mins      ██████████████████░░░░░░░   71.95 % 
+Markdown                 8 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+TypeScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Swift                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 5 mins (53.04%)
+⏱ AI Coding Time: 20 hrs 23 mins (54.51%)
 
 ✍️ 2,242 lines written by AI, 3 lines written by hand (99.87% AI-written)
 
-🔤 13,908,468 Input Tokens, 1,919,716 Output Tokens
+🔤 13,831,509 Input Tokens, 1,922,142 Output Tokens
 
-💵 $351.76 Estimated AI Cost This Week
+💵 $350.15 Estimated AI Cost This Week
 
-🧠 121 AI Sessions, 712 AI Prompts
+🧠 117 AI Sessions, 692 AI Prompts
 
 GPT                      1,090 lines         ███████████░░░░░░░░░░░░░░   45.72 % 
 Opus                     572 lines           ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
@@ -146,7 +146,7 @@ Grok                     43 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 6,073 characters per prompt
+📚 Verbose Prompter — average 6,112 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
@@ -164,7 +164,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 03:33:55 UTC
+ Last Updated on 26/09/2026 17:53:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
