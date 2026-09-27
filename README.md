@@ -151,14 +151,20 @@ Grok                     43 lines            ░░░░░░░░░░░�
 🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               40 repos            ██████████████░░░░░░░░░░░   56.34 % 
+Swift                    13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
 
 
- Last Updated on 27/09/2026 18:07:50 UTC
+ Last Updated on 27/09/2026 18:08:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
