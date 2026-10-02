@@ -98,7 +98,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-501%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-504%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -118,35 +118,35 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Other                    36 hrs 28 mins      ████████████████████░░░░░   81.07 % 
-Markdown                 4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Swift                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-TypeScript               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Other                    42 hrs 14 mins      ████████████████████░░░░░   80.92 % 
+Markdown                 5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Swift                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JSON                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 4 mins (37.93%)
+⏱ AI Coding Time: 17 hrs 52 mins (34.25%)
 
-✍️ 4,132 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,915 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 31,318,007 Input Tokens, 2,272,363 Output Tokens
+🔤 31,382,874 Input Tokens, 2,332,714 Output Tokens
 
-💵 $719.35 Estimated AI Cost This Week
+💵 $583.58 Estimated AI Cost This Week
 
-🧠 186 AI Sessions, 396 AI Prompts
+🧠 177 AI Sessions, 428 AI Prompts
 
-GPT                      2,429 lines         ██████████████░░░░░░░░░░░   54.94 % 
-Fable                    1,069 lines         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Opus                     922 lines           █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Cursor                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GPT                      2,176 lines         ███████████░░░░░░░░░░░░░░   43.49 % 
+Opus                     1,540 lines         ████████░░░░░░░░░░░░░░░░░   30.78 % 
+Fable                    1,287 lines         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,838 characters per prompt
+📚 Verbose Prompter — average 2,176 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
@@ -164,7 +164,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 08:38:50 UTC
+ Last Updated on 02/10/2026 10:31:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
