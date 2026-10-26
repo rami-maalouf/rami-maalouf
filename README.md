@@ -98,7 +98,7 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-606%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-609%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -118,35 +118,35 @@ My biggest weakness is my mind never stops coming up with [cool thing to build](
 
 ```text
 💬 Programming Languages: 
-Other                    44 hrs 39 mins      █████████████████░░░░░░░░   66.58 % 
-Markdown                 10 hrs 56 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Python                   2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Text                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-TypeScript               2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    47 hrs 31 mins      █████████████████░░░░░░░░   67.36 % 
+Markdown                 11 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Python                   2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Text                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TypeScript               2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 4 mins (50.81%)
+⏱ AI Coding Time: 33 hrs 25 mins (47.37%)
 
-✍️ 21,951 lines written by AI, 43 lines written by hand (99.8% AI-written)
+✍️ 22,334 lines written by AI, 23 lines written by hand (99.9% AI-written)
 
-🔤 35,539,472 Input Tokens, 6,513,949 Output Tokens
+🔤 31,523,306 Input Tokens, 6,479,044 Output Tokens
 
-💵 $1250.07 Estimated AI Cost This Week
+💵 $971.77 Estimated AI Cost This Week
 
-🧠 487 AI Sessions, 1027 AI Prompts
+🧠 453 AI Sessions, 1003 AI Prompts
 
-Opus                     15,120 lines        █████████████████░░░░░░░░   67.32 % 
-GPT                      7,326 lines         ████████░░░░░░░░░░░░░░░░░   32.62 % 
+Opus                     16,601 lines        ██████████████████░░░░░░░   72.69 % 
+GPT                      6,225 lines         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
 Codex-Vscode             13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 4,331 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 4,255 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.36% of changed lines were hand-edited
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,7 +162,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 06:10:58 UTC
+ Last Updated on 26/10/2026 20:49:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
